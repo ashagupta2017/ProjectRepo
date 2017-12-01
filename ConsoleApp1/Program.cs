@@ -10,6 +10,14 @@ namespace ConsoleApp1
 	{
 		static void Main(string[] args)
 		{
+			int x = 5;
+			int y = 12;
+
+			int z = x + y;
+
+			Console.WriteLine("the sum is {0} :" , z);
+			Console.ReadLine();
+
 		}
 	}
 }
